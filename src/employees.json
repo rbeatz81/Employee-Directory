@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "first": "Isaac",
+        "last": "Pehrson",
+        "years": "3",
+        "category": "Janitor"
+    },
+    {
+        "id": 2,
+        "first": "Riley",
+        "last": "Barlow",
+        "years": "3",
+        "category": "Janitor"
+    },
+    {
+        "id": 3,
+        "first": "Q",
+        "last": "Smith",
+        "years": "3",
+        "category": "Janitor"
+    },
+    {
+        "id": 4,
+        "first": "Dawson",
+        "last": "Hamilton",
+        "years": "2",
+        "category": "Janitor"
+    },
+    {
+        "id": 5,
+        "first": "John",
+        "last": "Johnson",
+        "years": "5",
+        "category": "Sales"
+    },
+    {
+        "id": 6,
+        "first": "Jacob",
+        "last": "Schmidt",
+        "years": "4",
+        "category": "PR"
+    },
+    {
+        "id": 7,
+        "first": "Jingle",
+        "last": "Garfield",
+        "years": "2",
+        "category": "Accounting"
+    },
+    {
+        "id": 8,
+        "first": "Heimer",
+        "last": "Taylor",
+        "years": "5",
+        "category": "Sales"
+    },
+    {
+        "id": 9,
+        "first": "Lucy",
+        "last": "Jones",
+        "years": "1",
+        "category": "Sales"
+    },
+    {
+        "id": 10,
+        "first": "Will",
+        "last": "Zoolander",
+        "years": "31",
+        "category": "Executive"
+    },
+    {
+        "id": 11,
+        "first": "Matt",
+        "last": "Damon",
+        "years": "13",
+        "category": "Executive"
+    }
+]
